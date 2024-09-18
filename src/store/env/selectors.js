@@ -1,0 +1,11 @@
+export const selectConfig = state => state.env;
+export const selectEnvironment = state => state.env.environment;
+export const selectSupport = state => state.env.support.id;
+export const selectBucket = state => state.env.bucket;
+export const selectDomain = state => state.env.domain;
+export const selectCognito = state => state.env.cognito;
+export const selectStripe = state => state.env.stripe;
+export const selectRest = state => state.env.rest;
+export const selectGiphy = state => state.env.giphy;
+export const selectGoogleMaps = state => state.env.googleMaps;
+export const environmentIsLoaded = state => state.env.loaded;
