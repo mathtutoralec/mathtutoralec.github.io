@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3e4fe672.css",
-    "main.js": "/static/js/main.c4802b8c.js",
+    "main.js": "/static/js/main.bca3ca78.js",
     "static/media/profile1.JPG": "/static/media/profile1.bac382b59c424f7610cf.JPG",
     "static/media/pexels-polina-zimmerman-3747516.jpg": "/static/media/pexels-polina-zimmerman-3747516.b013985388683aaa9257.jpg",
     "static/media/pexels-padrinan-745365.jpg": "/static/media/pexels-padrinan-745365.9a35563953920e9f4d3e.jpg",
@@ -482,10 +482,10 @@
     "d.js": "/c98e74fc97b04fe8bf43dcdff549afcf.js",
     "mode-text.js": "/0ffb18fb70c87335edee31a479f58a43.js",
     "main.3e4fe672.css.map": "/static/css/main.3e4fe672.css.map",
-    "main.c4802b8c.js.map": "/static/js/main.c4802b8c.js.map"
+    "main.bca3ca78.js.map": "/static/js/main.bca3ca78.js.map"
   },
   "entrypoints": [
     "static/css/main.3e4fe672.css",
-    "static/js/main.c4802b8c.js"
+    "static/js/main.bca3ca78.js"
   ]
 }
